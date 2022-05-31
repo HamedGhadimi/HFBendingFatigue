@@ -1,0 +1,5 @@
+Entered the folder containing jupyter notebooks
+press ALT + D, 
+cmd and press Enter
+in the cmd type "jupyter lab"
+it opens that folder in jupyter lab
